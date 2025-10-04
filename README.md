@@ -58,5 +58,3 @@ Este projeto abrange três pilares da automação industrial:
 ## 👤 Autor
 **Diego Campos**
 
----
-GitHub deixa gameficado 😉
