@@ -6,7 +6,7 @@ Este projeto é uma solução de automação industrial para o controle de proce
 ## 🏗️ Arquitetura do Software
 A arquitetura do software foi a principal prioridade do desenvolvimento, focando em modularidade, manutenibilidade e robustez. A lógica foi decomposta em Blocos de Função (FBs) coesos e de baixo acoplamento, seguindo o princípio de Separação de Responsabilidades (SoC).
 
-O programa principal (`POU_01`) atua como um orquestrador, gerenciando o ciclo de vida e a interação entre os módulos, sem conter lógica de controle de baixo nível.
+O programa principal (`POU_01`) atua como um orquestrador, gerenciando o ciclo de vida e a interação entre os módulos.
 
 ```
 [ POU_01 (Orquestrador Principal) ]
