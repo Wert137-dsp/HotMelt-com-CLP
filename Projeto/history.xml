@@ -1,0 +1,869 @@
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <DSHISTORY>
+    <D_History diffgr:id="D_History1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+      <iID>1</iID>
+      <iProjectdataID>1</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-19T13:37:34.4757867-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:48.58827-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-19T13:37:34.4757867-03:00</dtFileUpdateDate>
+      <iFileSize>546</iFileSize>
+      <szMD5val>1FRsqXsVdEnwxBU0horcaw==</szMD5val>
+      <szProjectdataName>projeto_hotmelt.prj</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+      <iID>2</iID>
+      <iProjectdataID>2</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-05T10:51:48.5992657-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:48.5992657-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-05T10:51:48.5992657-03:00</dtFileUpdateDate>
+      <iFileSize>62</iFileSize>
+      <szMD5val>wQINmY2hR0/Ko+x6rPnO6A==</szMD5val>
+      <szProjectdataName>0101000000000002.col</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+      <iID>3</iID>
+      <iProjectdataID>3</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-19T13:37:34.5695376-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:48.6292657-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-19T13:37:34.5695376-03:00</dtFileUpdateDate>
+      <iFileSize>62</iFileSize>
+      <szMD5val>BHQOhHvioU/opCO2lJCdfw==</szMD5val>
+      <szProjectdataName>0101000000000003.col</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+      <iID>4</iID>
+      <iProjectdataID>4</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-15T12:48:53.8815923-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:48.6622149-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-15T12:48:53.8815923-03:00</dtFileUpdateDate>
+      <iFileSize>62</iFileSize>
+      <szMD5val>mIElbJWQ3dJN3TwT59pl6w==</szMD5val>
+      <szProjectdataName>0101000000000004.col</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+      <iID>5</iID>
+      <iProjectdataID>5</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-21T11:54:55.4410415-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:48.703211-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-21T11:54:55.4410415-03:00</dtFileUpdateDate>
+      <iFileSize>62</iFileSize>
+      <szMD5val>4/2Kj+gmK+MTOhD/grfsOg==</szMD5val>
+      <szProjectdataName>0101000000000005.col</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+      <iID>6</iID>
+      <iProjectdataID>6</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-05T10:51:48.7492154-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:48.7492154-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-05T10:51:48.7492154-03:00</dtFileUpdateDate>
+      <iFileSize>24</iFileSize>
+      <szMD5val>B4sRX3N+edKZzxLpM4UtAw==</szMD5val>
+      <szProjectdataName>0101000000000006.col</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+      <iID>7</iID>
+      <iProjectdataID>7</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-05T10:51:48.7972123-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:48.7962122-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-05T10:51:48.7972123-03:00</dtFileUpdateDate>
+      <iFileSize>24</iFileSize>
+      <szMD5val>K+iH+jGQ2ubIu4iMPWj3bg==</szMD5val>
+      <szProjectdataName>0101000000000007.col</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+      <iID>8</iID>
+      <iProjectdataID>8</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-05T10:51:48.8502248-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:48.8502248-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-05T10:51:48.8502248-03:00</dtFileUpdateDate>
+      <iFileSize>24</iFileSize>
+      <szMD5val>B4sRX3N+edKZzxLpM4UtAw==</szMD5val>
+      <szProjectdataName>0101000000000008.col</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+      <iID>9</iID>
+      <iProjectdataID>9</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-05T10:51:48.9082051-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:48.9082051-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-05T10:51:48.9082051-03:00</dtFileUpdateDate>
+      <iFileSize>62</iFileSize>
+      <szMD5val>VPQga5TGGDRskkUwVuca/Q==</szMD5val>
+      <szProjectdataName>0101000000000009.col</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+      <iID>10</iID>
+      <iProjectdataID>10</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-15T12:48:53.96657-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:48.9702308-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-15T12:48:53.96657-03:00</dtFileUpdateDate>
+      <iFileSize>62</iFileSize>
+      <szMD5val>R8vc0CeVSgmk/99hoRyZyA==</szMD5val>
+      <szProjectdataName>010100000000000A.col</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History11" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+      <iID>11</iID>
+      <iProjectdataID>11</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-05T10:51:49.0322119-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:49.0322119-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-05T10:51:49.0322119-03:00</dtFileUpdateDate>
+      <iFileSize>24</iFileSize>
+      <szMD5val>NPcN8A33+uuqApdEQXnpaQ==</szMD5val>
+      <szProjectdataName>010100000000000B.col</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History12" msdata:rowOrder="11" diffgr:hasChanges="inserted">
+      <iID>12</iID>
+      <iProjectdataID>12</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-15T12:48:54.0515825-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:49.100214-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-15T12:48:54.0515825-03:00</dtFileUpdateDate>
+      <iFileSize>14282</iFileSize>
+      <szMD5val>fyyHIpEXVna1W/XhCewh8A==</szMD5val>
+      <szProjectdataName>MAIN.res</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History13" msdata:rowOrder="12" diffgr:hasChanges="inserted">
+      <iID>13</iID>
+      <iProjectdataID>13</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-01T14:18:10.3502823-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:49.1662083-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-01T14:18:10.3502823-03:00</dtFileUpdateDate>
+      <iFileSize>116</iFileSize>
+      <szMD5val>aczF0cOiGFMr7+eEYLpHpA==</szMD5val>
+      <szProjectdataName>Task_01.tsk</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History14" msdata:rowOrder="13" diffgr:hasChanges="inserted">
+      <iID>14</iID>
+      <iProjectdataID>14</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-15T12:48:54.13056-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:49.2292437-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-15T12:48:54.13056-03:00</dtFileUpdateDate>
+      <iFileSize>11880</iFileSize>
+      <szMD5val>TJYQDmimPggxtY03NafUvA==</szMD5val>
+      <szProjectdataName>Global1.gh</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History15" msdata:rowOrder="14" diffgr:hasChanges="inserted">
+      <iID>15</iID>
+      <iProjectdataID>15</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-19T13:37:34.7882814-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:49.2952017-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-19T13:37:34.7882814-03:00</dtFileUpdateDate>
+      <iFileSize>4778</iFileSize>
+      <szMD5val>lNODOp6aohHOqJv4SWf/AA==</szMD5val>
+      <szProjectdataName>POU_01.Labels.lh</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History16" msdata:rowOrder="15" diffgr:hasChanges="inserted">
+      <iID>16</iID>
+      <iProjectdataID>16</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-19T13:37:34.8820274-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:49.3581971-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-19T13:37:34.8820274-03:00</dtFileUpdateDate>
+      <iFileSize>28969</iFileSize>
+      <szMD5val>UrB3M3bUICg8IHtnHY70Eg==</szMD5val>
+      <szProjectdataName>POU_01.Program.pou</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History17" msdata:rowOrder="16" diffgr:hasChanges="inserted">
+      <iID>17</iID>
+      <iProjectdataID>17</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-11T09:19:39.8538884-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:49.4212295-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-11T09:19:39.8538884-03:00</dtFileUpdateDate>
+      <iFileSize>798</iFileSize>
+      <szMD5val>B+Jncjt1GPsXcg168U7YKA==</szMD5val>
+      <szProjectdataName>Param.wpa</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History18" msdata:rowOrder="17" diffgr:hasChanges="inserted">
+      <iID>18</iID>
+      <iProjectdataID>18</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-19T13:37:34.6789065-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:49.4842089-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-19T13:37:34.6789065-03:00</dtFileUpdateDate>
+      <iFileSize>38</iFileSize>
+      <szMD5val>DECt0IuBzyD7DQmHTQazsQ==</szMD5val>
+      <szProjectdataName>Param.lup</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History19" msdata:rowOrder="18" diffgr:hasChanges="inserted">
+      <iID>19</iID>
+      <iProjectdataID>19</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-05T10:51:49.5461871-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:49.5461871-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-05T10:51:49.5461871-03:00</dtFileUpdateDate>
+      <iFileSize>60</iFileSize>
+      <szMD5val>J+CqMJdUJXbInRqbBH+QfA==</szMD5val>
+      <szProjectdataName>COMMENT.qcd</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History20" msdata:rowOrder="19" diffgr:hasChanges="inserted">
+      <iID>20</iID>
+      <iProjectdataID>20</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-05T10:51:49.615182-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:49.615182-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-05T10:51:49.615182-03:00</dtFileUpdateDate>
+      <iFileSize>124</iFileSize>
+      <szMD5val>EqWSfZRymDy75rxEv8iHBA==</szMD5val>
+      <szProjectdataName>MAIN.qdv</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History21" msdata:rowOrder="20" diffgr:hasChanges="inserted">
+      <iID>21</iID>
+      <iProjectdataID>21</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-05T10:51:49.6761787-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:49.6761787-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-05T10:51:49.6761787-03:00</dtFileUpdateDate>
+      <iFileSize>0</iFileSize>
+      <szMD5val>1B2M2Y8AsgTpgAmY7PhCfg==</szMD5val>
+      <szProjectdataName>AUTOEXEC.wbt</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History22" msdata:rowOrder="21" diffgr:hasChanges="inserted">
+      <iID>23</iID>
+      <iProjectdataID>23</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-05T10:51:49.8032099-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:49.8032099-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-05T10:51:49.8032099-03:00</dtFileUpdateDate>
+      <iFileSize>100</iFileSize>
+      <szMD5val>bQuwCVTOt/vuQ2u1WoOXqQ==</szMD5val>
+      <szProjectdataName>00000000.qtm</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History23" msdata:rowOrder="22" diffgr:hasChanges="inserted">
+      <iID>24</iID>
+      <iProjectdataID>24</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-05T13:08:53.6501803-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:49.8651668-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-05T13:08:53.6501803-03:00</dtFileUpdateDate>
+      <iFileSize>62</iFileSize>
+      <szMD5val>Y/CDjWtKzf2aJ2JyRnhL3Q==</szMD5val>
+      <szProjectdataName>UserLibrary.col</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History24" msdata:rowOrder="23" diffgr:hasChanges="inserted">
+      <iID>25</iID>
+      <iProjectdataID>25</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-05T10:51:49.9291992-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:49.9291992-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-05T10:51:49.9291992-03:00</dtFileUpdateDate>
+      <iFileSize>130422</iFileSize>
+      <szMD5val>BjUSpJmAFg940mZ9oh2TbA==</szMD5val>
+      <szProjectdataName>MELSECFunction.lif</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History25" msdata:rowOrder="24" diffgr:hasChanges="inserted">
+      <iID>26</iID>
+      <iProjectdataID>26</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-05T10:51:49.9941745-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:49.9941745-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-05T10:51:49.9941745-03:00</dtFileUpdateDate>
+      <iFileSize>10385</iFileSize>
+      <szMD5val>jDtgeP4Caef4J2ePzCJ9hA==</szMD5val>
+      <szProjectdataName>IECFunction.lif</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History26" msdata:rowOrder="25" diffgr:hasChanges="inserted">
+      <iID>27</iID>
+      <iProjectdataID>27</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-05T10:51:50.059156-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:50.059156-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-05T10:51:50.059156-03:00</dtFileUpdateDate>
+      <iFileSize>2319</iFileSize>
+      <szMD5val>Op5Hh8rhwinggTNZHIctMQ==</szMD5val>
+      <szProjectdataName>MELSEC_LIB2.lif</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History27" msdata:rowOrder="26" diffgr:hasChanges="inserted">
+      <iID>28</iID>
+      <iProjectdataID>28</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-19T13:37:34.9913996-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:50.1231514-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-19T13:37:34.9913996-03:00</dtFileUpdateDate>
+      <iFileSize>902</iFileSize>
+      <szMD5val>KwXgZXQ7+JGX7PVLccKEsg==</szMD5val>
+      <szProjectdataName>BlockPassword.bpw</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History28" msdata:rowOrder="27" diffgr:hasChanges="inserted">
+      <iID>29</iID>
+      <iProjectdataID>29</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-05T10:51:50.1971483-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:50.1961476-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-05T10:51:50.1971483-03:00</dtFileUpdateDate>
+      <iFileSize>0</iFileSize>
+      <szMD5val>1B2M2Y8AsgTpgAmY7PhCfg==</szMD5val>
+      <szProjectdataName>SamplingTrace.qtd</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History29" msdata:rowOrder="28" diffgr:hasChanges="inserted">
+      <iID>30</iID>
+      <iProjectdataID>30</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-05T10:51:50.2711474-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:50.2711474-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-05T10:51:50.2711474-03:00</dtFileUpdateDate>
+      <iFileSize>40</iFileSize>
+      <szMD5val>tJFRLxSAirVnXjPBM72D2A==</szMD5val>
+      <szProjectdataName>SystemLabel.sld</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History30" msdata:rowOrder="29" diffgr:hasChanges="inserted">
+      <iID>31</iID>
+      <iProjectdataID>31</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-11T09:19:40.780834-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:50.4511337-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-11T09:19:40.780834-03:00</dtFileUpdateDate>
+      <iFileSize>70</iFileSize>
+      <szMD5val>MI1uNpQGRQfF/k1ZSI/wng==</szMD5val>
+      <szProjectdataName>projeto2.pji</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History31" msdata:rowOrder="30" diffgr:hasChanges="inserted">
+      <iID>32</iID>
+      <iProjectdataID>32</iProjectdataID>
+      <szComment />
+      <iEditor>3</iEditor>
+      <dtUpdateDate>2023-12-19T13:37:35.5389817-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:50.8451102-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-19T13:37:35.5389817-03:00</dtFileUpdateDate>
+      <iFileSize>77824</iFileSize>
+      <szMD5val>7nIVCAeI2j2qu4/U0bladA==</szMD5val>
+      <szProjectdataName>DeviceAssignment.dat</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History32" msdata:rowOrder="31" diffgr:hasChanges="inserted">
+      <iID>33</iID>
+      <iProjectdataID>33</iProjectdataID>
+      <szComment />
+      <iEditor>3</iEditor>
+      <dtUpdateDate>2023-12-19T13:37:35.5389817-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:50.9441029-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-19T13:37:35.5389817-03:00</dtFileUpdateDate>
+      <iFileSize>77824</iFileSize>
+      <szMD5val>IJRRplMtJ9kdUF1aIW6/Pg==</szMD5val>
+      <szProjectdataName>ProgramAnalysis.dat</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History33" msdata:rowOrder="32" diffgr:hasChanges="inserted">
+      <iID>34</iID>
+      <iProjectdataID>34</iProjectdataID>
+      <szComment />
+      <iEditor>3</iEditor>
+      <dtUpdateDate>2023-12-19T13:37:35.6327264-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:51.0370992-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-19T13:37:35.6327264-03:00</dtFileUpdateDate>
+      <iFileSize>102400</iFileSize>
+      <szMD5val>VSQH63IcrUgEea4lM43m3g==</szMD5val>
+      <szProjectdataName>DebugInformation.dat</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History34" msdata:rowOrder="33" diffgr:hasChanges="inserted">
+      <iID>35</iID>
+      <iProjectdataID>35</iProjectdataID>
+      <szComment />
+      <iEditor>3</iEditor>
+      <dtUpdateDate>2023-12-19T13:37:35.7108713-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:51.1280919-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-19T13:37:35.7108713-03:00</dtFileUpdateDate>
+      <iFileSize>30063</iFileSize>
+      <szMD5val>A2Sl1fkHp7kAYNz+6w7nEQ==</szMD5val>
+      <szProjectdataName>CallTree.dat</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History35" msdata:rowOrder="34" diffgr:hasChanges="inserted">
+      <iID>36</iID>
+      <iProjectdataID>36</iProjectdataID>
+      <szComment />
+      <iEditor>3</iEditor>
+      <dtUpdateDate>2023-12-19T13:37:35.7889749-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:51.2100887-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-19T13:37:35.7889749-03:00</dtFileUpdateDate>
+      <iFileSize>144570</iFileSize>
+      <szMD5val>CwyADCd2cjrZRBgOaY+qhQ==</szMD5val>
+      <szProjectdataName>CGTable.dat</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History36" msdata:rowOrder="35" diffgr:hasChanges="inserted">
+      <iID>37</iID>
+      <iProjectdataID>37</iProjectdataID>
+      <szComment />
+      <iEditor>3</iEditor>
+      <dtUpdateDate>2023-12-19T13:37:35.8827213-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:51.2960838-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-19T13:37:35.8827213-03:00</dtFileUpdateDate>
+      <iFileSize>17917</iFileSize>
+      <szMD5val>rVU3sakMddKVHwZStc9IWQ==</szMD5val>
+      <szProjectdataName>DebugInformation2.dat</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History37" msdata:rowOrder="36" diffgr:hasChanges="inserted">
+      <iID>38</iID>
+      <iProjectdataID>38</iProjectdataID>
+      <szComment />
+      <iEditor>3</iEditor>
+      <dtUpdateDate>2023-12-19T13:37:35.992099-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:51.4090763-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-19T13:37:35.992099-03:00</dtFileUpdateDate>
+      <iFileSize>128512</iFileSize>
+      <szMD5val>PGQSHv8mZPql7ZUoXAKjxA==</szMD5val>
+      <szProjectdataName>ESCompiler.stg</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History38" msdata:rowOrder="37" diffgr:hasChanges="inserted">
+      <iID>39</iID>
+      <iProjectdataID>39</iProjectdataID>
+      <szComment>SaveProject</szComment>
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-01T14:18:13.8680771-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:51.6770627-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-01T14:18:13.8680771-03:00</dtFileUpdateDate>
+      <iFileSize>13</iFileSize>
+      <szMD5val>C4Z+U8HSM86f5J1UVJojIw==</szMD5val>
+      <szProjectdataName>ProjectStatusFlag.dat</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History39" msdata:rowOrder="38" diffgr:hasChanges="inserted">
+      <iID>40</iID>
+      <iProjectdataID>40</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-19T13:37:36.438703-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:51.8810513-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-19T13:37:36.438703-03:00</dtFileUpdateDate>
+      <iFileSize>88110</iFileSize>
+      <szMD5val>H26GH6WYiD7WzvFQUfCyDg==</szMD5val>
+      <szProjectdataName>Gppw2.gpj</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History40" msdata:rowOrder="39" diffgr:hasChanges="inserted">
+      <iID>41</iID>
+      <iProjectdataID>41</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-11T09:19:41.8957664-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:52.0670554-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-11T09:19:41.8957664-03:00</dtFileUpdateDate>
+      <iFileSize>25</iFileSize>
+      <szMD5val>YUwpwRWQuRrWSstCGerxkw==</szMD5val>
+      <szProjectdataName>OPTIONDATA.PrgDebugger</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History41" msdata:rowOrder="40" diffgr:hasChanges="inserted">
+      <iID>42</iID>
+      <iProjectdataID>42</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-11T09:19:42.0387608-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:52.2580257-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-11T09:19:42.0387608-03:00</dtFileUpdateDate>
+      <iFileSize>16</iFileSize>
+      <szMD5val>a5wfoR2Wjv+GTJxOQ07Ogg==</szMD5val>
+      <szProjectdataName>PRGDEBUGGER_WND1.PrgDebugger</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History42" msdata:rowOrder="41" diffgr:hasChanges="inserted">
+      <iID>43</iID>
+      <iProjectdataID>43</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-11T09:19:42.1797489-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:52.4340146-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-11T09:19:42.1797489-03:00</dtFileUpdateDate>
+      <iFileSize>17</iFileSize>
+      <szMD5val>cSeQ26oCU/LMT/p5IuZkkw==</szMD5val>
+      <szProjectdataName>PRGDEBUGGER_WND2.PrgDebugger</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History43" msdata:rowOrder="42" diffgr:hasChanges="inserted">
+      <iID>44</iID>
+      <iProjectdataID>44</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-11T09:19:42.3087583-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:52.5900073-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-11T09:19:42.3087583-03:00</dtFileUpdateDate>
+      <iFileSize>16</iFileSize>
+      <szMD5val>a5wfoR2Wjv+GTJxOQ07Ogg==</szMD5val>
+      <szProjectdataName>PRGDEBUGGER_WND3.PrgDebugger</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History44" msdata:rowOrder="43" diffgr:hasChanges="inserted">
+      <iID>45</iID>
+      <iProjectdataID>45</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-13T11:01:56.9734404-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:52.7449983-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-13T11:01:56.9734404-03:00</dtFileUpdateDate>
+      <iFileSize>2580</iFileSize>
+      <szMD5val>d/M04zvul06kp8ho5aYxTQ==</szMD5val>
+      <szProjectdataName>Cnct2.ini</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History45" msdata:rowOrder="44" diffgr:hasChanges="inserted">
+      <iID>46</iID>
+      <iProjectdataID>46</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-05T10:51:52.905987-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:52.905987-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-05T10:51:52.905987-03:00</dtFileUpdateDate>
+      <iFileSize>16</iFileSize>
+      <szMD5val>ufoEWUEDyvkFEHng/fA5+w==</szMD5val>
+      <szProjectdataName>CCLinkDiag2.dat</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History46" msdata:rowOrder="45" diffgr:hasChanges="inserted">
+      <iID>47</iID>
+      <iProjectdataID>47</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-09-05T10:51:53.1199739-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-05T10:51:53.1199739-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-09-05T10:51:53.1199739-03:00</dtFileUpdateDate>
+      <iFileSize>16</iFileSize>
+      <szMD5val>ufoEWUEDyvkFEHng/fA5+w==</szMD5val>
+      <szProjectdataName>CCLinkDiag.dat</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History47" msdata:rowOrder="46" diffgr:hasChanges="inserted">
+      <iID>48</iID>
+      <iProjectdataID>48</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-01T14:18:10.6784346-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-11T11:09:02.643703-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-01T14:18:10.6784346-03:00</dtFileUpdateDate>
+      <iFileSize>1930</iFileSize>
+      <szMD5val>pIX63gybd/CvBiEgR7TsBw==</szMD5val>
+      <szProjectdataName>controle_temperatura.Labels.lh</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History48" msdata:rowOrder="47" diffgr:hasChanges="inserted">
+      <iID>49</iID>
+      <iProjectdataID>49</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-01T14:18:10.7565592-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-11T11:09:02.7356959-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-01T14:18:10.7565592-03:00</dtFileUpdateDate>
+      <iFileSize>1249</iFileSize>
+      <szMD5val>VCPrOs0Ohg5LantzUNTfAw==</szMD5val>
+      <szProjectdataName>controle_temperatura.Program.pou</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History49" msdata:rowOrder="48" diffgr:hasChanges="inserted">
+      <iID>50</iID>
+      <iProjectdataID>50</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-01T14:18:10.8346422-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-11T11:09:02.8226911-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-01T14:18:10.8346422-03:00</dtFileUpdateDate>
+      <iFileSize>2154</iFileSize>
+      <szMD5val>VQGzOrfOaxlpr+AVVVRTSw==</szMD5val>
+      <szProjectdataName>config_PID.Labels.lh</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History50" msdata:rowOrder="49" diffgr:hasChanges="inserted">
+      <iID>51</iID>
+      <iProjectdataID>51</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-01T14:18:10.9127713-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-11T11:09:02.9106865-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-01T14:18:10.9127713-03:00</dtFileUpdateDate>
+      <iFileSize>4279</iFileSize>
+      <szMD5val>ntq8VN0YqRIcYzeqcevM2g==</szMD5val>
+      <szProjectdataName>config_PID.Program.pou</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History51" msdata:rowOrder="50" diffgr:hasChanges="inserted">
+      <iID>52</iID>
+      <iProjectdataID>52</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-10-05T11:56:29.6916247-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-11T11:57:45.8502703-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-10-05T11:56:29.6916247-03:00</dtFileUpdateDate>
+      <iFileSize>6291</iFileSize>
+      <szMD5val>0ymyzOTeSxEvbWv0XcWd8Q==</szMD5val>
+      <szProjectdataName>OPTIONDATA.PrtOption</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History52" msdata:rowOrder="51" diffgr:hasChanges="inserted">
+      <iID>53</iID>
+      <iProjectdataID>53</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-01T14:18:11.0065139-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-12T12:47:30.2785783-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-01T14:18:11.0065139-03:00</dtFileUpdateDate>
+      <iFileSize>860</iFileSize>
+      <szMD5val>P42FJTq5pOcf2lJoA8tLpA==</szMD5val>
+      <szProjectdataName>leitura_analógica.Labels.lh</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History53" msdata:rowOrder="52" diffgr:hasChanges="inserted">
+      <iID>54</iID>
+      <iProjectdataID>54</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-01T14:18:11.100261-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-12T12:47:30.3575723-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-01T14:18:11.100261-03:00</dtFileUpdateDate>
+      <iFileSize>2837</iFileSize>
+      <szMD5val>SwWEu0YsF/QprfS4WGOM0w==</szMD5val>
+      <szProjectdataName>leitura_analógica.Program.pou</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History54" msdata:rowOrder="53" diffgr:hasChanges="inserted">
+      <iID>57</iID>
+      <iProjectdataID>57</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-01T14:18:11.1940133-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-15T14:31:41.9162202-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-01T14:18:11.1940133-03:00</dtFileUpdateDate>
+      <iFileSize>774</iFileSize>
+      <szMD5val>99+lf6WxDuiR3r/D77ZmZA==</szMD5val>
+      <szProjectdataName>temp_normal.Labels.lh</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History55" msdata:rowOrder="54" diffgr:hasChanges="inserted">
+      <iID>58</iID>
+      <iProjectdataID>58</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-01T14:18:11.2721329-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-15T14:31:41.9991981-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-01T14:18:11.2721329-03:00</dtFileUpdateDate>
+      <iFileSize>2709</iFileSize>
+      <szMD5val>+LOoy6x1wNh0TXyWduonfQ==</szMD5val>
+      <szProjectdataName>temp_normal.Program.pou</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History56" msdata:rowOrder="55" diffgr:hasChanges="inserted">
+      <iID>55</iID>
+      <iProjectdataID>55</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-01T14:18:11.3427299-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-18T11:55:03.5402903-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-01T14:18:11.3427299-03:00</dtFileUpdateDate>
+      <iFileSize>1626</iFileSize>
+      <szMD5val>zjD7rDiP9W7kQNe0S3ZDDg==</szMD5val>
+      <szProjectdataName>temp_standby.Labels.lh</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History57" msdata:rowOrder="56" diffgr:hasChanges="inserted">
+      <iID>56</iID>
+      <iProjectdataID>56</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-01T14:18:11.4208358-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-18T11:55:03.6232854-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-01T14:18:11.4208358-03:00</dtFileUpdateDate>
+      <iFileSize>3223</iFileSize>
+      <szMD5val>N6McAF8g9K1yhsmzz236IA==</szMD5val>
+      <szProjectdataName>temp_standby.Program.pou</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History58" msdata:rowOrder="57" diffgr:hasChanges="inserted">
+      <iID>59</iID>
+      <iProjectdataID>59</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-15T12:48:54.4005429-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-18T11:55:03.7032804-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-15T12:48:54.4005429-03:00</dtFileUpdateDate>
+      <iFileSize>4180</iFileSize>
+      <szMD5val>1AKE53psou1m/QI0LLvEgw==</szMD5val>
+      <szProjectdataName>temp_alarm.Labels.lh</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History59" msdata:rowOrder="58" diffgr:hasChanges="inserted">
+      <iID>60</iID>
+      <iProjectdataID>60</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-13T12:10:09.5413431-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-18T11:55:03.7832759-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-13T12:10:09.5413431-03:00</dtFileUpdateDate>
+      <iFileSize>11283</iFileSize>
+      <szMD5val>fOxWO+NZ1fDqpMPoTDo17Q==</szMD5val>
+      <szProjectdataName>temp_alarm.Program.pou</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History60" msdata:rowOrder="59" diffgr:hasChanges="inserted">
+      <iID>61</iID>
+      <iProjectdataID>61</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-15T12:48:54.5035405-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-19T14:52:47.7694537-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-15T12:48:54.5035405-03:00</dtFileUpdateDate>
+      <iFileSize>2952</iFileSize>
+      <szMD5val>hOWxTpSthIl5tIhBjdFmbg==</szMD5val>
+      <szProjectdataName>verificar_temperatura.Labels.lh</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History61" msdata:rowOrder="60" diffgr:hasChanges="inserted">
+      <iID>62</iID>
+      <iProjectdataID>62</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-15T12:48:54.5855423-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-19T14:52:47.8614471-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-15T12:48:54.5855423-03:00</dtFileUpdateDate>
+      <iFileSize>12633</iFileSize>
+      <szMD5val>dgd5z49V8y2dHDWm3WoKiw==</szMD5val>
+      <szProjectdataName>verificar_temperatura.Program.pou</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History62" msdata:rowOrder="61" diffgr:hasChanges="inserted">
+      <iID>63</iID>
+      <iProjectdataID>63</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-13T12:10:09.6260223-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-25T09:17:24.590843-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-13T12:10:09.6260223-03:00</dtFileUpdateDate>
+      <iFileSize>1090</iFileSize>
+      <szMD5val>M6U/VZN2xK++Z0jMKNOZdQ==</szMD5val>
+      <szProjectdataName>alarm_geral.Labels.lh</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History63" msdata:rowOrder="62" diffgr:hasChanges="inserted">
+      <iID>64</iID>
+      <iProjectdataID>64</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-13T12:10:09.7106534-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-25T09:17:24.6878366-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-13T12:10:09.7106534-03:00</dtFileUpdateDate>
+      <iFileSize>17323</iFileSize>
+      <szMD5val>I9qzvfCAA7fN6gwhst3rGw==</szMD5val>
+      <szProjectdataName>alarm_geral.Program.pou</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History64" msdata:rowOrder="63" diffgr:hasChanges="inserted">
+      <iID>65</iID>
+      <iProjectdataID>65</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-12T15:08:47.5743894-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-26T12:04:11.8739248-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-12T15:08:47.5743894-03:00</dtFileUpdateDate>
+      <iFileSize>1304</iFileSize>
+      <szMD5val>+tbpiZ9vAw+JjZ7FVz7mLQ==</szMD5val>
+      <szProjectdataName>monitoramento.Labels.lh</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History65" msdata:rowOrder="64" diffgr:hasChanges="inserted">
+      <iID>66</iID>
+      <iProjectdataID>66</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-12T15:08:47.6525155-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-09-26T12:04:11.9690595-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-12T15:08:47.6525155-03:00</dtFileUpdateDate>
+      <iFileSize>3417</iFileSize>
+      <szMD5val>DsiGLRBeVZbs7KTTcOpdpQ==</szMD5val>
+      <szProjectdataName>monitoramento.Program.pou</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History66" msdata:rowOrder="65" diffgr:hasChanges="inserted">
+      <iID>69</iID>
+      <iProjectdataID>69</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-13T11:01:54.9292058-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-10-02T11:47:13.0529405-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-13T11:01:54.9292058-03:00</dtFileUpdateDate>
+      <iFileSize>2544</iFileSize>
+      <szMD5val>AYDwpVmOiRfNOpbbjDQpew==</szMD5val>
+      <szProjectdataName>controle_motor.Labels.lh</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History67" msdata:rowOrder="66" diffgr:hasChanges="inserted">
+      <iID>70</iID>
+      <iProjectdataID>70</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-13T11:01:55.0232024-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-10-02T11:47:13.1466881-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-13T11:01:55.0232024-03:00</dtFileUpdateDate>
+      <iFileSize>13079</iFileSize>
+      <szMD5val>r/vGutZv6XQWMPfJUE+zdQ==</szMD5val>
+      <szProjectdataName>controle_motor.Program.pou</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History68" msdata:rowOrder="67" diffgr:hasChanges="inserted">
+      <iID>75</iID>
+      <iProjectdataID>75</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-12T15:08:47.9025065-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-10-04T12:03:35.3653345-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-12T15:08:47.9025065-03:00</dtFileUpdateDate>
+      <iFileSize>1726</iFileSize>
+      <szMD5val>k8wBwzQbAdNKGeSgg9LH/A==</szMD5val>
+      <szProjectdataName>config_modbus.Labels.lh</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History69" msdata:rowOrder="68" diffgr:hasChanges="inserted">
+      <iID>76</iID>
+      <iProjectdataID>76</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-12T15:08:47.9806308-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-10-04T12:03:35.4434681-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-12T15:08:47.9806308-03:00</dtFileUpdateDate>
+      <iFileSize>1251</iFileSize>
+      <szMD5val>oh17PE0DSlBjcFf2nDXGEQ==</szMD5val>
+      <szProjectdataName>config_modbus.Program.pou</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History70" msdata:rowOrder="69" diffgr:hasChanges="inserted">
+      <iID>77</iID>
+      <iProjectdataID>77</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-15T12:48:54.8035203-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-12-15T12:48:54.8025216-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-15T12:48:54.8035203-03:00</dtFileUpdateDate>
+      <iFileSize>786</iFileSize>
+      <szMD5val>C4Yh4/zzL1anwPaQM9aUjQ==</szMD5val>
+      <szProjectdataName>ajuste_medicao.Labels.lh</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History71" msdata:rowOrder="70" diffgr:hasChanges="inserted">
+      <iID>78</iID>
+      <iProjectdataID>78</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-12-15T12:48:54.8885148-03:00</dtUpdateDate>
+      <dtFileTimeStamp>2023-12-15T12:48:54.8885148-03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-12-15T12:48:54.8885148-03:00</dtFileUpdateDate>
+      <iFileSize>8003</iFileSize>
+      <szMD5val>NxHmPk5pak+oCCaH+ENlaQ==</szMD5val>
+      <szProjectdataName>ajuste_medicao.Program.pou</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History81" msdata:rowOrder="71" diffgr:hasChanges="inserted">
+      <iID>22</iID>
+      <iProjectdataID>22</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtFileTimeStamp>2023-12-19T13:37:36.9699413-03:00</dtFileTimeStamp>
+      <szMD5val />
+      <szProjectdataName>Project.gd2</szProjectdataName>
+    </D_History>
+    <D_DBVersion diffgr:id="D_DBVersion10" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+      <iSupportVersion>1</iSupportVersion>
+      <iCreateVersion>1</iCreateVersion>
+    </D_DBVersion>
+  </DSHISTORY>
+</diffgr:diffgram>
